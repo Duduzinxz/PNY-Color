@@ -1,0 +1,9 @@
+*.exe
+*.zip
+*.log
+*.bin
+*.bak
+*.tmp
+cor-salva.txt
+validation/
+github-publication/
